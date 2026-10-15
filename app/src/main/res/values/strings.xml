@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Fuga AI</string>
+    <string name="tagline">Become Smarter. Use your own AI Assistant.</string>
+    <string name="welcome_heading">Welcome to Fuga AI</string>
+    <string name="continue_with_google">Continue with Google</string>
+    <string name="setup_api_key_title">Enter your Google AI API Key</string>
+    <string name="setup_api_key_desc">Your API key is used to connect Fuga with the AI service.</string>
+    <string name="api_key_hint">AIzaSy...</string>
+    <string name="btn_continue">Continue</string>
+    <string name="btn_dont_have_key">Don\'t have an API Key?</string>
+    <string name="permissions_title">Let\'s set things up</string>
+    <string name="permissions_desc">Allow the permissions required for the Fuga features you enable.</string>
+    <string name="capabilities_title">Fuga Capabilities</string>
+    <string name="capabilities_desc">Explore what your new personal AI assistant can do.</string>
+    <string name="wake_word_title">Wake Word Setup</string>
+    <string name="wake_word_phrase">“Hey Fuga”</string>
+    <string name="wake_word_desc">Activate Fuga hands-free without opening the app.</string>
+    <string name="gmail_setup_title">Optional Fuga Gmail</string>
+    <string name="gmail_setup_desc">Make or link a dedicated Gmail account for Fuga assistant integrations.</string>
+    <string name="home_greeting">Hey there, how can I help you?</string>
+    <string name="accessibility_description">Fuga AI Screen Assistant reads the active screen and performs authorized taps and gestures upon your voice or text command.</string>
+</resources>

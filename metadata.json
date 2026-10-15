@@ -1,0 +1,6 @@
+{
+  "name": "Fuga AI",
+  "description": "Fuga AI next-generation personal assistant with voice interaction, Hey Fuga wake word, dynamic island, and biometric security.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
